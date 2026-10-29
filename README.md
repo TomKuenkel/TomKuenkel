@@ -30,7 +30,7 @@
 
 <div data-importer="music" align="center">
  <a href="https://open.spotify.com/user/y7s2771spu2hzlc2kpwrduv4f">
-  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=y7s2771spu2hzlc2kpwrduv4f&amp;count=10&amp;width=800&amp;username=off" alt="Spotify recently played" width="800" />
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=y7s2771spu2hzlc2kpwrduv4f&amp;count=5&amp;width=800&amp;username=off" alt="Spotify recently played" width="800" />
 </a>
 </div>
 
